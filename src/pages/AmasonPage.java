@@ -5,5 +5,7 @@ public class AmasonPage {
 
     // html for search button
 
-    //html for deals page
+    // html for deals page
+
+    // html for cart page
 }
