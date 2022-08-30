@@ -6,4 +6,7 @@ public class AmasonPage {
     // html for search button
 
     //html for deals page
+    
+    //team member
+    
 }
