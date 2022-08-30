@@ -1,4 +1,5 @@
 package pages;
+
 public class AmasonPage {
     // html for menu
 
@@ -6,6 +7,10 @@ public class AmasonPage {
 
     // html for deals page
 
-
     // html for cart page
+
+    //team member
+
+    // Hello
+
 }
